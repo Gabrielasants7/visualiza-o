@@ -21,7 +21,7 @@ E apresentar a biblioteca folium .
 É uma biblioteca para visualizar dados geoespaciais. É uma das principais bibliotecas JavaScript de código aberto para plotagem de mapas interativos.
 
 
-# Como ?
+# Como rodar?
 Para um melhor aproveitamento visual , abra com o google colab .  👇🏽 
 
     1. GOOGLE COLAB
